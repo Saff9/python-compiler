@@ -2,7 +2,7 @@
 
 [![Build Android APK](https://github.com/Saff9/python-compiler/actions/workflows/build-apk.yml/badge.svg)](https://github.com/Saff9/python-compiler/actions/workflows/build-apk.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-blue.svg)](https://nodejs.org/)
+[![Node Version](https://img.shields.io/badge/node-%3E%3D22.0.0-blue.svg)](https://nodejs.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![Platform: Capacitor/Android](https://img.shields.io/badge/Platform-Capacitor%2FAndroid-blueviolet)](https://capacitorjs.com)
 
